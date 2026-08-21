@@ -1,600 +1,1372 @@
 {
   "hosts": {
     "api.notion.com": {
-      "canonical_name": null,
+      "canonical_name": "api.notion.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "api.notion.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "208.103.161.1",
+        "208.103.161.2"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "api.notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "api.notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "api.notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "api.stratz.com": {
-      "canonical_name": null,
+      "canonical_name": "api.stratz.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "api.stratz.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.26.8.64",
+        "104.26.9.64",
+        "172.67.74.142"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "api.stratz.com",
+          "ipv4": [
+            "104.26.8.64",
+            "104.26.9.64",
+            "172.67.74.142"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "api.stratz.com",
+          "ipv4": [
+            "104.26.8.64",
+            "104.26.9.64",
+            "172.67.74.142"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "api.stratz.com",
+          "ipv4": [
+            "104.26.8.64",
+            "104.26.9.64",
+            "172.67.74.142"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "app.cftools.cloud": {
-      "canonical_name": null,
+      "canonical_name": "app.cftools.cloud",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "app.cftools.cloud",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.44.182",
+        "172.66.175.138"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "app.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "app.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "app.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "bg.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "bg.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "bg.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "bg.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "bg.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "bg.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "cftools.com": {
-      "canonical_name": null,
+      "canonical_name": "cftools.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "cftools.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.26.8.38",
+        "104.26.9.38",
+        "172.67.71.71"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "cftools.com",
+          "ipv4": [
+            "104.26.8.38",
+            "104.26.9.38",
+            "172.67.71.71"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "cftools.com",
+          "ipv4": [
+            "104.26.8.38",
+            "104.26.9.38",
+            "172.67.71.71"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "cftools.com",
+          "ipv4": [
+            "104.26.8.38",
+            "104.26.9.38",
+            "172.67.71.71"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "cftools.software": {
-      "canonical_name": null,
+      "canonical_name": "cftools.software",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "cftools.software",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.21.72.55",
+        "172.67.175.168"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "cftools.software",
+          "ipv4": [
+            "104.21.72.55",
+            "172.67.175.168"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "cftools.software",
+          "ipv4": [
+            "104.21.72.55",
+            "172.67.175.168"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "cftools.software",
+          "ipv4": [
+            "104.21.72.55",
+            "172.67.175.168"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "cs.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "cs.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "cs.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "cs.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "cs.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "cs.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "de.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "de.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "de.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "de.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "de.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "de.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "developer.cftools.cloud": {
-      "canonical_name": null,
+      "canonical_name": "developer.cftools.cloud",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "developer.cftools.cloud",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.44.182",
+        "172.66.175.138"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "developer.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "developer.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "developer.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "discord.cftools.cloud": {
-      "canonical_name": null,
+      "canonical_name": "discord.cftools.cloud",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "discord.cftools.cloud",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.44.182",
+        "172.66.175.138"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "discord.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "discord.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "discord.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "docs.cftools.cloud": {
-      "canonical_name": null,
+      "canonical_name": "docs.cftools.cloud",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "docs.cftools.cloud",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.44.182",
+        "172.66.175.138"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "docs.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "docs.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "docs.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "es.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "es.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "es.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "es.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "es.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "es.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "fr.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "fr.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "fr.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "fr.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "fr.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "fr.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "it.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "it.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "it.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "it.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "it.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "it.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "ka.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "ka.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "ka.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "ka.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "ka.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "ka.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "ko.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "ko.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "ko.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "ko.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "ko.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "ko.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "notion.com": {
-      "canonical_name": null,
+      "canonical_name": "notion.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "notion.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "208.103.161.1",
+        "208.103.161.2"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "notion.site": {
-      "canonical_name": null,
+      "canonical_name": "notion.site",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "notion.site",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "208.103.161.32",
+        "208.103.161.33"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "notion.site",
+          "ipv4": [
+            "208.103.161.32",
+            "208.103.161.33"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "notion.site",
+          "ipv4": [
+            "208.103.161.32",
+            "208.103.161.33"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "notion.site",
+          "ipv4": [
+            "208.103.161.32",
+            "208.103.161.33"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "notion.so": {
-      "canonical_name": null,
+      "canonical_name": "notion.so",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "notion.so",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "208.103.161.1",
+        "208.103.161.2"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "notion.so",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "notion.so",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "notion.so",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "status.cftools.cloud": {
-      "canonical_name": null,
+      "canonical_name": "status.cftools.cloud",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "status.cftools.cloud",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.44.182",
+        "172.66.175.138"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "status.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "status.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "status.cftools.cloud",
+          "ipv4": [
+            "104.20.44.182",
+            "172.66.175.138"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "stratz.com": {
-      "canonical_name": null,
+      "canonical_name": "stratz.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "stratz.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.26.8.64",
+        "104.26.9.64",
+        "172.67.74.142"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "stratz.com",
+          "ipv4": [
+            "104.26.8.64",
+            "104.26.9.64",
+            "172.67.74.142"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "stratz.com",
+          "ipv4": [
+            "104.26.8.64",
+            "104.26.9.64",
+            "172.67.74.142"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "stratz.com",
+          "ipv4": [
+            "104.26.8.64",
+            "104.26.9.64",
+            "172.67.74.142"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "www.cftools.com": {
-      "canonical_name": null,
+      "canonical_name": "www.cftools.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.cftools.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.26.8.38",
+        "104.26.9.38",
+        "172.67.71.71"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.cftools.com",
+          "ipv4": [
+            "104.26.8.38",
+            "104.26.9.38",
+            "172.67.71.71"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.cftools.com",
+          "ipv4": [
+            "104.26.8.38",
+            "104.26.9.38",
+            "172.67.71.71"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.cftools.com",
+          "ipv4": [
+            "104.26.8.38",
+            "104.26.9.38",
+            "172.67.71.71"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "www.dotabuff.com": {
-      "canonical_name": null,
+      "canonical_name": "www.dotabuff.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.dotabuff.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "104.20.25.166",
+        "172.66.168.84"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.dotabuff.com",
+          "ipv4": [
+            "104.20.25.166",
+            "172.66.168.84"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "www.notion.com": {
-      "canonical_name": null,
+      "canonical_name": "www.notion.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.notion.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "208.103.161.1",
+        "208.103.161.2"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.notion.com",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "www.notion.so": {
-      "canonical_name": null,
+      "canonical_name": "www.notion.so",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.notion.so",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "208.103.161.1",
+        "208.103.161.2"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.notion.so",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.notion.so",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.notion.so",
+          "ipv4": [
+            "208.103.161.1",
+            "208.103.161.2"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
     "wwws.notion.site": {
-      "canonical_name": null,
+      "canonical_name": "wwws.notion.site",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "wwws.notion.site",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "208.103.161.32",
+        "208.103.161.33"
+      ],
+      "last_check": "2026-08-21T08:28:13Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:28:13Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "wwws.notion.site",
+          "ipv4": [
+            "208.103.161.32",
+            "208.103.161.33"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "wwws.notion.site",
+          "ipv4": [
+            "208.103.161.32",
+            "208.103.161.33"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "wwws.notion.site",
+          "ipv4": [
+            "208.103.161.32",
+            "208.103.161.33"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "manual_seed"
       ],
-      "status": "pending"
+      "status": "active"
     }
   },
-  "updated_at": null,
+  "updated_at": "2026-08-21T08:28:13Z",
   "version": 2
 }
