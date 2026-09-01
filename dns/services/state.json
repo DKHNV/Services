@@ -11,10 +11,10 @@
         "208.103.161.1",
         "208.103.161.2"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -62,10 +62,10 @@
         "104.26.9.64",
         "172.67.74.142"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -115,10 +115,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -165,10 +165,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -216,10 +216,10 @@
         "104.26.9.38",
         "172.67.71.71"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -269,10 +269,10 @@
         "104.21.72.55",
         "172.67.175.168"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -319,10 +319,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -369,10 +369,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -419,10 +419,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -444,12 +444,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "developer.cftools.cloud",
-          "ipv4": [
-            "104.20.44.182",
-            "172.66.175.138"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -469,10 +466,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -494,12 +491,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "discord.cftools.cloud",
-          "ipv4": [
-            "104.20.44.182",
-            "172.66.175.138"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -519,10 +513,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -544,12 +538,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "docs.cftools.cloud",
-          "ipv4": [
-            "104.20.44.182",
-            "172.66.175.138"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -569,10 +560,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -619,10 +610,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -669,10 +660,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -694,12 +685,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "fr.dotabuff.com",
-          "ipv4": [
-            "104.20.25.166",
-            "172.66.168.84"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -719,10 +707,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -769,10 +757,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -819,10 +807,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -869,10 +857,10 @@
         "208.103.161.1",
         "208.103.161.2"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -894,12 +882,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "notion.com",
-          "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -919,10 +904,10 @@
         "208.103.161.32",
         "208.103.161.33"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -969,10 +954,10 @@
         "208.103.161.1",
         "208.103.161.2"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1019,10 +1004,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1070,10 +1055,10 @@
         "104.26.9.64",
         "172.67.74.142"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1124,10 +1109,10 @@
         "104.26.9.38",
         "172.67.71.71"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1177,10 +1162,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1227,10 +1212,10 @@
         "208.103.161.1",
         "208.103.161.2"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1277,10 +1262,10 @@
         "208.103.161.1",
         "208.103.161.2"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1327,10 +1312,10 @@
         "208.103.161.32",
         "208.103.161.33"
       ],
-      "last_check": "2026-09-01T10:30:17Z",
+      "last_check": "2026-09-01T15:33:55Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-01T10:30:17Z",
+      "last_success": "2026-09-01T15:33:55Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1367,6 +1352,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-09-01T10:30:17Z",
+  "updated_at": "2026-09-01T15:33:55Z",
   "version": 2
 }
