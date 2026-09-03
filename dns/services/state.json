@@ -8,13 +8,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "api.notion.com",
       "ipv4": [
-        "208.103.161.1",
-        "208.103.161.2"
+        "208.103.161.16",
+        "208.103.161.17"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -22,24 +22,24 @@
         "1.1.1.1": {
           "canonical_name": "api.notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "api.notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "api.notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         }
@@ -62,10 +62,10 @@
         "104.26.9.64",
         "172.67.74.142"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -115,10 +115,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -165,10 +165,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -216,10 +216,10 @@
         "104.26.9.38",
         "172.67.71.71"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -269,10 +269,10 @@
         "104.21.72.55",
         "172.67.175.168"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -319,10 +319,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -369,10 +369,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -419,10 +419,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -469,10 +469,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -519,10 +519,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -569,10 +569,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -619,10 +619,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -669,10 +669,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -719,10 +719,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -769,10 +769,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -819,10 +819,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -866,13 +866,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "notion.com",
       "ipv4": [
-        "208.103.161.1",
-        "208.103.161.2"
+        "208.103.161.16",
+        "208.103.161.17"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -880,24 +880,24 @@
         "1.1.1.1": {
           "canonical_name": "notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         }
@@ -916,13 +916,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "notion.site",
       "ipv4": [
-        "208.103.161.32",
-        "208.103.161.33"
+        "208.103.161.18",
+        "208.103.161.19"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -930,24 +930,24 @@
         "1.1.1.1": {
           "canonical_name": "notion.site",
           "ipv4": [
-            "208.103.161.32",
-            "208.103.161.33"
+            "208.103.161.18",
+            "208.103.161.19"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "notion.site",
           "ipv4": [
-            "208.103.161.32",
-            "208.103.161.33"
+            "208.103.161.18",
+            "208.103.161.19"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "notion.site",
           "ipv4": [
-            "208.103.161.32",
-            "208.103.161.33"
+            "208.103.161.18",
+            "208.103.161.19"
           ],
           "status": "OK"
         }
@@ -966,13 +966,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "notion.so",
       "ipv4": [
-        "208.103.161.1",
-        "208.103.161.2"
+        "208.103.161.16",
+        "208.103.161.17"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -980,24 +980,24 @@
         "1.1.1.1": {
           "canonical_name": "notion.so",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "notion.so",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "notion.so",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         }
@@ -1019,10 +1019,10 @@
         "104.20.44.182",
         "172.66.175.138"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1070,10 +1070,10 @@
         "104.26.9.64",
         "172.67.74.142"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1124,10 +1124,10 @@
         "104.26.9.38",
         "172.67.71.71"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1177,10 +1177,10 @@
         "104.20.25.166",
         "172.66.168.84"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1224,13 +1224,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.notion.com",
       "ipv4": [
-        "208.103.161.1",
-        "208.103.161.2"
+        "208.103.161.16",
+        "208.103.161.17"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1238,24 +1238,24 @@
         "1.1.1.1": {
           "canonical_name": "www.notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "www.notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "www.notion.com",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         }
@@ -1274,13 +1274,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.notion.so",
       "ipv4": [
-        "208.103.161.1",
-        "208.103.161.2"
+        "208.103.161.16",
+        "208.103.161.17"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1288,24 +1288,24 @@
         "1.1.1.1": {
           "canonical_name": "www.notion.so",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "www.notion.so",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "www.notion.so",
           "ipv4": [
-            "208.103.161.1",
-            "208.103.161.2"
+            "208.103.161.16",
+            "208.103.161.17"
           ],
           "status": "OK"
         }
@@ -1324,13 +1324,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "wwws.notion.site",
       "ipv4": [
-        "208.103.161.32",
-        "208.103.161.33"
+        "208.103.161.18",
+        "208.103.161.19"
       ],
-      "last_check": "2026-09-02T20:07:27Z",
+      "last_check": "2026-09-03T01:30:54Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-02T20:07:27Z",
+      "last_success": "2026-09-03T01:30:54Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1338,24 +1338,24 @@
         "1.1.1.1": {
           "canonical_name": "wwws.notion.site",
           "ipv4": [
-            "208.103.161.32",
-            "208.103.161.33"
+            "208.103.161.18",
+            "208.103.161.19"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "wwws.notion.site",
           "ipv4": [
-            "208.103.161.32",
-            "208.103.161.33"
+            "208.103.161.18",
+            "208.103.161.19"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "wwws.notion.site",
           "ipv4": [
-            "208.103.161.32",
-            "208.103.161.33"
+            "208.103.161.18",
+            "208.103.161.19"
           ],
           "status": "OK"
         }
@@ -1367,6 +1367,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-09-02T20:07:27Z",
+  "updated_at": "2026-09-03T01:30:54Z",
   "version": 2
 }
