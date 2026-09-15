@@ -1,6 +1,6 @@
 # Services DNS Maintenance Report
 
-Generated: `2026-09-14T21:04:07Z`
+Generated: `2026-09-15T01:55:30Z`
 
 ## DNS lifecycle
 
@@ -30,15 +30,7 @@ Average stability: **99.9%**
 
 ## Current HTTPS/TLS failures
 
-| Type | Hosts |
-|---|---:|
-| NETWORK_ERROR | 1 |
-
-### Failure details
-
-| Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
-|---|---|---|---:|---|---|---:|---:|
-| `cs.dotabuff.com` | alive | `2026-09-14T21:04:07Z` | 1 | NETWORK_ERROR | 104.20.25.166, 172.66.168.84 | 98.2 | 57 |
+No current HTTPS/TLS failures.
 
 ## Discovery
 
