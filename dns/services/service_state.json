@@ -18,14 +18,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 302,
-          "ip": "208.103.161.1",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 302,
           "ip": "208.103.161.1",
@@ -416,13 +408,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 302,
+          "ip": "208.103.161.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "api.notion.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "208.103.161.1",
@@ -430,7 +430,7 @@
         "208.103.161.17"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -452,14 +452,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.26.8.64",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.26.8.64",
@@ -850,13 +842,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.26.8.64",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "api.stratz.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.26.8.64",
@@ -864,7 +864,7 @@
         "172.67.74.142"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -886,14 +886,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "104.20.44.182",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
           "ip": "104.20.44.182",
@@ -1283,20 +1275,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "104.20.44.182",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "app.cftools.cloud",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.44.182",
         "172.66.175.138"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1318,14 +1318,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -1716,20 +1708,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "bg.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1751,14 +1751,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "104.26.8.38",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
           "ip": "104.26.8.38",
@@ -2149,13 +2141,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "104.26.8.38",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "cftools.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.26.8.38",
@@ -2163,7 +2163,7 @@
         "172.67.71.71"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2184,14 +2184,6 @@
       "failure_since": null,
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
-        {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "104.21.72.55",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
         {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
@@ -2582,20 +2574,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "104.21.72.55",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "cftools.software",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.21.72.55",
         "172.67.175.168"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2616,14 +2616,6 @@
       "failure_since": null,
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
-        {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
         {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
@@ -3015,13 +3007,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "cs.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": {
         "at": "2026-09-14T21:04:07Z",
         "attempts": [
@@ -3048,7 +3048,7 @@
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3070,14 +3070,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -3468,20 +3460,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "de.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3503,14 +3503,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "104.20.44.182",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
           "ip": "104.20.44.182",
@@ -3901,20 +3893,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "104.20.44.182",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "developer.cftools.cloud",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.44.182",
         "172.66.175.138"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3936,14 +3936,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "104.20.44.182",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
           "ip": "104.20.44.182",
@@ -4334,20 +4326,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "104.20.44.182",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "discord.cftools.cloud",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.44.182",
         "172.66.175.138"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4369,14 +4369,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 301,
-          "ip": "104.20.44.182",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 301,
           "ip": "104.20.44.182",
@@ -4767,20 +4759,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 301,
+          "ip": "104.20.44.182",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "docs.cftools.cloud",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.44.182",
         "172.66.175.138"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4802,14 +4802,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 301,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 301,
           "ip": "104.20.25.166",
@@ -5200,20 +5192,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 301,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5235,14 +5235,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -5633,20 +5625,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "es.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5668,14 +5668,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -6066,20 +6058,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "fr.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6101,14 +6101,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -6499,20 +6491,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "it.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6534,14 +6534,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -6932,20 +6924,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "ka.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6967,14 +6967,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -7365,20 +7357,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "ko.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7400,14 +7400,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 302,
-          "ip": "208.103.161.1",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 302,
           "ip": "208.103.161.1",
@@ -7798,13 +7790,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 302,
+          "ip": "208.103.161.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "notion.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "208.103.161.1",
@@ -7812,7 +7812,7 @@
         "208.103.161.17"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7834,14 +7834,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 302,
-          "ip": "208.103.161.32",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 302,
           "ip": "208.103.161.32",
@@ -8232,20 +8224,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 302,
+          "ip": "208.103.161.32",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "notion.site",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "208.103.161.32",
         "208.103.161.33"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8267,14 +8267,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 301,
-          "ip": "208.103.161.1",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 301,
           "ip": "208.103.161.1",
@@ -8665,13 +8657,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 301,
+          "ip": "208.103.161.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "notion.so",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "208.103.161.1",
@@ -8679,7 +8679,7 @@
         "208.103.161.17"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8701,14 +8701,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 301,
-          "ip": "104.20.44.182",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 301,
           "ip": "104.20.44.182",
@@ -9099,20 +9091,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 301,
+          "ip": "104.20.44.182",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "status.cftools.cloud",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.44.182",
         "172.66.175.138"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9134,14 +9134,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.26.8.64",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.26.8.64",
@@ -9532,13 +9524,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.26.8.64",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "stratz.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.26.8.64",
@@ -9546,7 +9546,7 @@
         "172.67.74.142"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9568,14 +9568,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 301,
-          "ip": "104.26.8.38",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 301,
           "ip": "104.26.8.38",
@@ -9966,13 +9958,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 301,
+          "ip": "104.26.8.38",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "www.cftools.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.26.8.38",
@@ -9980,7 +9980,7 @@
         "172.67.71.71"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10002,14 +10002,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 403,
-          "ip": "104.20.25.166",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 403,
           "ip": "104.20.25.166",
@@ -10400,20 +10392,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 403,
+          "ip": "104.20.25.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "www.dotabuff.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.166",
         "172.66.168.84"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10435,14 +10435,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "208.103.161.1",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
           "ip": "208.103.161.1",
@@ -10833,13 +10825,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "208.103.161.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "www.notion.com",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "208.103.161.1",
@@ -10847,7 +10847,7 @@
         "208.103.161.17"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10869,14 +10869,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "208.103.161.1",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
           "ip": "208.103.161.1",
@@ -11267,13 +11259,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "208.103.161.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "www.notion.so",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "208.103.161.1",
@@ -11281,7 +11281,7 @@
         "208.103.161.17"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11303,14 +11303,6 @@
       "first_seen": "2026-08-21T08:28:13Z",
       "history": [
         {
-          "at": "2026-10-04T15:59:46Z",
-          "http_status": 200,
-          "ip": "208.103.161.32",
-          "result": "ALIVE",
-          "tls_version": "TLSv1.3",
-          "type": "HTTPS_OK"
-        },
-        {
           "at": "2026-10-04T20:28:53Z",
           "http_status": 200,
           "ip": "208.103.161.32",
@@ -11701,24 +11693,32 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-18T19:41:59Z",
+          "http_status": 200,
+          "ip": "208.103.161.32",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
       "history_samples": 50,
       "history_successes": 50,
       "hostname": "wwws.notion.site",
-      "last_check": "2026-10-18T14:52:18Z",
+      "last_check": "2026-10-18T19:41:59Z",
       "last_failure": null,
       "last_ipv4": [
         "208.103.161.32",
         "208.103.161.33"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-18T14:52:18Z",
+      "last_success": "2026-10-18T19:41:59Z",
       "stability_score": 100.0,
       "status": "alive"
     }
   },
-  "updated_at": "2026-10-18T14:52:18Z",
+  "updated_at": "2026-10-18T19:41:59Z",
   "version": 3
 }
